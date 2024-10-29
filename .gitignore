@@ -1,5 +1,5 @@
 agn_test.csv
 agn_train.csv
 glove.6B.100d.txt
-.ipynb_checkpoints
-results/executor_files_cnn_rnn_model__1730055627186_models_CNN-RNN_model.ipynb
+.ipynb_checkpoints/
+.obsidian
